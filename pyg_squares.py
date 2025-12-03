@@ -8,7 +8,7 @@ import math
 
 
 
-window = pyglet.window.Window(600, 600)
+window = pyglet.window.Window(1000, 1000)
 
 # Batches for drawing
 batch = pyglet.graphics.Batch()
